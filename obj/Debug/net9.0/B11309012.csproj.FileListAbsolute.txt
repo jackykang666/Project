@@ -1,0 +1,14 @@
+C:\Python\B11309012\bin\Debug\net9.0\B11309012.exe
+C:\Python\B11309012\bin\Debug\net9.0\B11309012.deps.json
+C:\Python\B11309012\bin\Debug\net9.0\B11309012.runtimeconfig.json
+C:\Python\B11309012\bin\Debug\net9.0\B11309012.dll
+C:\Python\B11309012\bin\Debug\net9.0\B11309012.pdb
+C:\Python\B11309012\obj\Debug\net9.0\B11309012.GeneratedMSBuildEditorConfig.editorconfig
+C:\Python\B11309012\obj\Debug\net9.0\B11309012.AssemblyInfoInputs.cache
+C:\Python\B11309012\obj\Debug\net9.0\B11309012.AssemblyInfo.cs
+C:\Python\B11309012\obj\Debug\net9.0\B11309012.csproj.CoreCompileInputs.cache
+C:\Python\B11309012\obj\Debug\net9.0\B11309012.dll
+C:\Python\B11309012\obj\Debug\net9.0\refint\B11309012.dll
+C:\Python\B11309012\obj\Debug\net9.0\B11309012.pdb
+C:\Python\B11309012\obj\Debug\net9.0\B11309012.genruntimeconfig.cache
+C:\Python\B11309012\obj\Debug\net9.0\ref\B11309012.dll
